@@ -1,21 +1,40 @@
 1.)cd: Belirli bir klasöre gitmek için kullanılır. cd.. komutu bir üst dizine çıkmanı sağlar.
-2.)dir: Mevcut klasördeki dosya ve klasörlerin listesini gösterir. 1
-3.)cls: Komut ekranındaki tüm çıktıları temizler. 1
-4.)echo: Bir mesaj veya değişkenin değerini ekrana yazdırır. Dosyaya veri yazmak için de kullanılabilir. 1
-5.)ipconfig: Ağ bağdaştırıcısının IP adresi, alt ağ maskesi ve varsayılan ağ geçidi gibi bilgilerini gösterir. 1
-6.)ping: Belirtilen bir IP adresine veya URL'ye veri paketleri gönderir ve bağlantıyı test eder. 1
-7.)netstat: Mevcut ağ bağlantılarını ve bağlantı noktası etkinliklerini gösterir. 1
-8.)tasklist: Sistem üzerinde çalışan tüm işlemlerin listesini gösterir. 1
-9.)shutdown: Bilgisayarı kapatma, yeniden başlatma veya uyku moduna geçirme komutu. Örneğin, shutdown /s bilgisayarı kapatır.  1
-10.)chkdsk: Diskteki hataları kontrol eder ve onarır. chkdsk /f hataları otomatik olarak düzeltmeye çalışır. 1
-11.)sfc: Sistem dosyası denetleyicisi olarak, bozuk sistem dosyalarını tarar ve onarır. sfc /scannow tam tarama yapar. 1
-12.)format: Bir sürücüyü belirtilen dosya sistemine göre biçimlendirir. Dikkatli kullanılmalıdır, çünkü tüm verileri siler. 1
-13.)xcopy: Klasörleri ve alt klasörleri de içerecek şekilde dosyaları kopyalar. xcopy /s tüm alt klasörleri dahil eder. 1
-14.)robocopy: Gelişmiş dosya kopyalama komutu, büyük dosya transferlerinde daha verimli çalışır. 1
-15.)attrib: Dosya ve klasörlere ait öznitelikleri değiştirmek için kullanılır. Örneğin, attrib +h file.txt dosyayı gizli hale getirir. 2
-16.)net user: Kullanıcı hesaplarını yönetmek için kullanılır. Örneğin, net user kullanıcıadı şifre /add yeni bir kullanıcı oluşturur. 2
-17.)diskpart: Disk bölümleme işlemleri yapar. Disk yönetimi için gelişmiş bir araçtır. 1
-18.)systeminfo: Bilgisayarın işletim sistemi, donanım bilgileri gibi sistem özelliklerini gösterir. 1
+
+2.)dir: Mevcut klasördeki dosya ve klasörlerin listesini gösterir. 
+
+3.)cls: Komut ekranındaki tüm çıktıları temizler. 
+
+4.)echo: Bir mesaj veya değişkenin değerini ekrana yazdırır. Dosyaya veri yazmak için de kullanılabilir. 
+
+5.)ipconfig: Ağ bağdaştırıcısının IP adresi, alt ağ maskesi ve varsayılan ağ geçidi gibi bilgilerini gösterir. 
+
+6.)ping: Belirtilen bir IP adresine veya URL'ye veri paketleri gönderir ve bağlantıyı test eder. 
+
+7.)netstat: Mevcut ağ bağlantılarını ve bağlantı noktası etkinliklerini gösterir. 
+
+8.)tasklist: Sistem üzerinde çalışan tüm işlemlerin listesini gösterir. 
+
+9.)shutdown: Bilgisayarı kapatma, yeniden başlatma veya uyku moduna geçirme komutu. Örneğin, shutdown /s bilgisayarı kapatır.  
+
+10.)chkdsk: Diskteki hataları kontrol eder ve onarır. chkdsk /f hataları otomatik olarak düzeltmeye çalışır. 
+
+11.)sfc: Sistem dosyası denetleyicisi olarak, bozuk sistem dosyalarını tarar ve onarır. sfc /scannow tam tarama yapar. 
+
+12.)format: Bir sürücüyü belirtilen dosya sistemine göre biçimlendirir. Dikkatli kullanılmalıdır, çünkü tüm verileri siler. 
+
+13.)xcopy: Klasörleri ve alt klasörleri de içerecek şekilde dosyaları kopyalar. xcopy /s tüm alt klasörleri dahil eder. 
+
+14.)robocopy: Gelişmiş dosya kopyalama komutu, büyük dosya transferlerinde daha verimli çalışır. 
+
+15.)attrib: Dosya ve klasörlere ait öznitelikleri değiştirmek için kullanılır. Örneğin, attrib +h file.txt dosyayı gizli hale getirir. 
+
+16.)net user: Kullanıcı hesaplarını yönetmek için kullanılır. Örneğin, net user kullanıcıadı şifre /add yeni bir kullanıcı oluşturur. 
+
+17.)diskpart: Disk bölümleme işlemleri yapar. Disk yönetimi için gelişmiş bir araçtır. 
+
+18.)systeminfo: Bilgisayarın işletim sistemi, donanım bilgileri gibi sistem özelliklerini gösterir. 
+
 Dikkat:
-19.)del: komutu dosyayı kalıcı olarak sileceği için yanlış dosyayı silmemeye dikkat etmelisin. Klasördeki tüm .txt dosyalarını silmek için del *.txt komutunu kullanabilirsin. 1
+19.)del: komutu dosyayı kalıcı olarak sileceği için yanlış dosyayı silmemeye dikkat etmelisin. Klasördeki tüm .txt dosyalarını silmek için del *.txt komutunu kullanabilirsin.
+
 20.)driverquery: bilgisayarınızdaki yüklü sürücüleri listeleyen bir komuttur.
