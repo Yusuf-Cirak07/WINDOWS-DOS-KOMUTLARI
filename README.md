@@ -1,4 +1,4 @@
-TEMEL WİNDOWS KOMUTLARI
+## TEMEL WİNDOWS KOMUTLARI
 
 1.)cd: Belirli bir klasöre gitmek için kullanılır. cd.. komutu bir üst dizine çıkmanı sağlar.
 
